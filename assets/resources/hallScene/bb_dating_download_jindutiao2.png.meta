@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e12e93d7-07ef-418f-b5ee-862745712ac2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "bb_dating_download_jindutiao2": {
+      "ver": "1.0.3",
+      "uuid": "781e84e2-d1ce-4881-84a5-26f783becf83",
+      "rawTextureUuid": "e12e93d7-07ef-418f-b5ee-862745712ac2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 9,
+      "trimY": 11,
+      "width": 203,
+      "height": 15,
+      "rawWidth": 221,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
